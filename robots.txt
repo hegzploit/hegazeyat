@@ -1,1 +1,1 @@
-Sitemap: https://ar.hegz.me/The-Simple-Arabic-Theme/sitemap.xml
+Sitemap: https://hegz.me/sitemap.xml
